@@ -985,6 +985,7 @@ figcaption{
 
 .style__switcher-toggler{
     position: absolute;
+    cursor: pointer;
     height: 52px;
     width: 52px;
     background-color: #2d2d2d;
@@ -1002,6 +1003,7 @@ figcaption{
 .colors{
     display: flex;
     column-gap: 0.625rem;
+    cursor: pointer;
 }
 
 .colors span{
